@@ -35,7 +35,7 @@
 
 ### EXECUTANDO O CÓDIGO:
 1. **Execute o Jogo**: 
-  - Abra o terminal (ou prompt de comando) e navegue até a pasta `./main.lua`.
+  - Abra o terminal (ou prompt de comando) e navegue até a pasta `./CODIGO`.
   - Execute o comando:
 
    ```bash
